@@ -1,0 +1,22 @@
+{
+  "name": "2023-03-16-npm-movier-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangJeemin/2023-03-16-npm-movier-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangJeemin/2023-03-16-npm-movier-practice/issues"
+  },
+  "homepage": "https://github.com/KangJeemin/2023-03-16-npm-movier-practice#readme",
+  "dependencies": {
+    "movier": "^3.0.0"
+  }
+}
